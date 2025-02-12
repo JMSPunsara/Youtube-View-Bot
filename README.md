@@ -20,4 +20,4 @@ This program was developed using Python 3.9.0, but it should work with Python 3.
 To install the repository, you can use the package manager [pip](https://pip.pypa.io/en/stable/):
 
 ```bash
-pip install https://github.com/gavintranquilino/YouTube-view-bot.git
+pip install https://github.com/JMSPunsara/Youtube-View-Bot.git
