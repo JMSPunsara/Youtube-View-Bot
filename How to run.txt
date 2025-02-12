@@ -1,0 +1,5 @@
+cd YouTube-view-bot
+
+
+
+python main.py
